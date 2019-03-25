@@ -1,3 +1,4 @@
+#This is a comment
 def rgb_hex():
   invalid_msg = "ERROR: Invalid input"
   red = int(raw_input("Enter Red Value: "))
